@@ -12,3 +12,7 @@
 <li>Creating a Custom Web Page.</li>
 </ul>
 <a href="https://drive.google.com/file/d/1xV9kFwF3YrKU8bNlBQVkd9ZaLVXi_0Is/view?usp=sharing" > Walkthrough</a>
+
+
+<h2> Lab-2 : Introduction to Amazon Simple Storage Service (S3)<h2> 
+<h6> Architecture Diagram<h6>
