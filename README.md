@@ -16,7 +16,7 @@
 
 <h2> Lab-2 : Introduction to Amazon Simple Storage Service (S3)<h2> 
 <h6> Architecture Diagram<h6>
-<a href="https://drive.google.com/file/d/14nBEvyZkdZ-uRG_lNZA4Uh4cpiDWnZ22/view?usp=sharing">
+<a href="https://drive.google.com/file/d/14nBEvyZkdZ-uRG_lNZA4Uh4cpiDWnZ22/view?usp=sharing">Diagram<a>
 <h6> Steps</h6>
 <ul>
 <li>1 - Log into the AWS Management Console</li>
