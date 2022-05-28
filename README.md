@@ -19,6 +19,10 @@
 <a href="https://drive.google.com/file/d/14nBEvyZkdZ-uRG_lNZA4Uh4cpiDWnZ22/view?usp=sharing">
 <h6> Steps</h6>
 <ul>
-<li></li>
+<li>1 - Log into the AWS Management Console</li>
+<li>2-Create an S3 bucket.</li>
+<li>3-Upload an object to S3 Bucket.</li>
+<li>4-Change Bucket permissions.</li>
+<li>5-Create a Bucket Policy.</li>
 </ul>
 <a href="https://drive.google.com/file/d/12V3zU4tiiZ0BaqVtr69chDvJt2lzNDOC/view?usp=sharing"> Walkthrough</a>
