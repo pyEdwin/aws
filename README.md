@@ -26,3 +26,23 @@
 <li>5-Create a Bucket Policy.</li>
 </ul>
 <a href="https://drive.google.com/file/d/12V3zU4tiiZ0BaqVtr69chDvJt2lzNDOC/view?usp=sharing"> Walkthrough</a>
+
+
+<h2> Lab-3 : Cross Region Replication and Versioning in  Simple Storage Service (S3)<h2> 
+<h6> Architecture Diagram<h6>
+<a href="https://drive.google.com/file/d/1qpjwvu2_QrwbXs3H37oRT8gcl-puluLn/view?usp=sharing">Diagram<a>
+<h6> Steps</h6>
+<ul>
+<li>1 - Login to AWS Management Console.</li>
+
+<li> 2- Create a S3 Source Bucket.</li>
+
+<li>Enable Versioning for source bucket.</li>
+
+<li>Enable Cross Region Replication and add rule for source bucket.</li>
+
+<li>Create a S3 Target Bucket.</li>
+
+<li>Enable Versioning for target bucket.</li>
+</ul>
+<a href="https://drive.google.com/file/d/1Otnst1_R0D1pIBo76Esfj-2KluKDOOU_/view?usp=sharing"> Walkthrough</a>
